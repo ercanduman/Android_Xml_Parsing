@@ -25,7 +25,5 @@ Hope it helps someone :+1: :) If you want to see some real project I have create
 
 
 Ercan DUMAN
-
 Computer engineer, Android Developer
-
 For more android apps [visit](https://play.google.com/store/search?q=ercanduman)
