@@ -21,7 +21,7 @@ If data first loaded it does not let you load it again. I created a flag called 
 
 This app shows **monthly** horoscope information, if you like you can change it to daily, yearly etc.
 
-Hope it helps someone :+1: :) If you want to see some real project I have created with XML parsing codes, please check my android [daily horoscope ]( https://play.google.com/store/apps/details?id=ercanduman.dailyhoroscope) application.
+Hope it helps someone :+1: :) If you want to see some real project I have created with XML parsing codes, please check my android [daily horoscope ]( https://play.google.com/store/apps/details?id=ercanduman.discoverdailyhoroscopes) application.
 
 
 Ercan DUMAN
